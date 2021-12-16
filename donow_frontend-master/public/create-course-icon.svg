@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="create-course-icon.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg743"
+   version="1.1"
+   viewBox="0 0 22.058311 17.789127"
+   height="17.789127mm"
+   width="22.058311mm">
+  <defs
+     id="defs737" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-42.171136"
+     inkscape:cx="-2.4959369"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata740">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-106.49372,-159.32445)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,104.37705,144.50778)"
+       id="training">
+      <path
+         fill="#484343"
+         d="m 87.337,56 h -75.3 A 4.039,4.039 0 0 0 8,60.034 v 45.72 a 4.039,4.039 0 0 0 4.034,4.034 h 27.8 l -1.92,6.723 H 32.2 a 1.345,1.345 0 0 0 -1.345,1.345 v 2.689 H 20.1 a 1.345,1.345 0 1 0 0,2.689 h 59.169 a 1.345,1.345 0 1 0 0,-2.689 H 68.511 v -2.689 a 1.345,1.345 0 0 0 -1.345,-1.345 h -5.71 l -1.92,-6.723 h 27.8 a 4.039,4.039 0 0 0 4.034,-4.034 V 60.034 A 4.039,4.039 0 0 0 87.337,56 Z m -21.515,63.2 v 1.345 H 33.549 V 119.2 Z m -25.111,-2.689 1.92,-6.723 H 56.74 l 1.92,6.723 z m 47.97,-10.758 a 1.347,1.347 0 0 1 -1.345,1.345 h -75.3 a 1.347,1.347 0 0 1 -1.345,-1.345 v -2.689 h 77.991 z m 0,-5.379 H 10.689 v -40.34 a 1.347,1.347 0 0 1 1.345,-1.345 h 75.3 a 1.347,1.347 0 0 1 1.345,1.345 z"
+         data-name="Path 455"
+         id="Path_455" />
+      <path
+         fill="#484343"
+         transform="translate(-99.831,-33.277)"
+         d="m 171.032,113.713 v -6.955 a 1.345,1.345 0 0 0 -0.776,-1.219 l -20.171,-9.413 a 1.343,1.343 0 0 0 -1.136,0 l -20.17,9.413 a 1.345,1.345 0 0 0 0,2.437 l 7.292,3.4 v 15.55 a 1.345,1.345 0 0 0 1.345,1.345 h 24.2 a 1.345,1.345 0 0 0 1.345,-1.345 v -15.55 l 5.379,-2.51 v 4.844 a 4.034,4.034 0 1 0 2.689,0 z m -10.758,11.87 h -21.515 v -12.949 l 10.189,4.755 a 1.343,1.343 0 0 0 1.136,0 l 10.189,-4.755 z m -10.758,-10.9 -16.99,-7.929 16.99,-7.929 16.99,7.929 z m 20.17,4.174 a 1.345,1.345 0 1 1 1.345,-1.345 1.345,1.345 0 0 1 -1.344,1.348 z"
+         data-name="Path 456"
+         id="Path_456" />
+    </g>
+  </g>
+</svg>

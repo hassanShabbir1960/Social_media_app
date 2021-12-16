@@ -1,0 +1,49 @@
+:root {
+  /* Overrides the border radius setting in the theme. */
+  --ck-border-radius: 30px;
+
+  /* Overrides the default font size in the theme. */
+  --ck-font-size-base: 10px;
+}
+
+.ck-content {
+  padding-inline: 25px !important;
+  padding-top: 5px !important;
+  height: 200px;
+  overflow-y: scroll !important;
+  line-height: 5px;
+}
+
+.ck-placeholder {
+  font-weight: 500;
+  font-size: 16px;
+  color: lightgrey;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.ck-content::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.ck-content {
+  border-top: none !important;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.ck-toolbar__items {
+  justify-content: space-around !important;
+  background-color: transparent !important;
+}
+.ck-toolbar {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  padding-inline: 5px !important;
+  background-color: transparent !important;
+  border-bottom: none !important;
+}
+
+.ck-button {
+  box-shadow: 1px 1px 2px grey;
+}

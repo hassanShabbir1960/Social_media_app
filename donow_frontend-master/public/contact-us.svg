@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="contact-us.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg453"
+   version="1.1"
+   viewBox="0 0 135.46666 125.78821"
+   height="125.78821mm"
+   width="135.46666mm">
+  <defs
+     id="defs447" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="256"
+     inkscape:window-height="1055"
+     inkscape:window-width="1424"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="414.85285"
+     inkscape:cx="290.28571"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-29.028572,-38.403516)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       opacity="0.26"
+       transform="matrix(0.26458333,0,0,0.26458333,29.028572,33.564287)"
+       id="email">
+      <path
+         fill="#feb920"
+         d="M 512,201.14 497,391.75 H 15 L 0,201.14 85.33,140.19 h 341.34 z"
+         data-name="Path 572"
+         id="Path_572" />
+      <path
+         fill="#fc9b28"
+         d="M 512,201.14 497,391.75 H 256 V 140.19 h 170.67 z"
+         data-name="Path 573"
+         id="Path_573" />
+      <path
+         fill="#e6f3ff"
+         d="M 85.33,18.29 H 426.67 V 402.28 H 85.33 Z"
+         data-name="Path 574"
+         id="Path_574" />
+      <path
+         fill="#bbe4f2"
+         d="M 256,18.29 H 426.67 V 402.28 H 256 Z"
+         data-name="Path 575"
+         id="Path_575" />
+      <g
+         transform="translate(146.287,76.431)"
+         data-name="Group 152"
+         id="Group_152">
+        <path
+           fill="#393e9f"
+           transform="translate(-146.287,-76.431)"
+           d="M 146.287,76.431 H 256 v 30 H 146.287 Z"
+           data-name="Path 576"
+           id="Path_576" />
+        <path
+           fill="#393e9f"
+           transform="translate(-146.287,-76.431)"
+           d="m 146.29,149.57 h 219.42 v 30 H 146.29 Z"
+           data-name="Path 577"
+           id="Path_577" />
+        <path
+           fill="#393e9f"
+           transform="translate(-146.287,-76.431)"
+           d="m 146.29,222.71 h 219.42 v 30 H 146.29 Z"
+           data-name="Path 578"
+           id="Path_578" />
+      </g>
+      <path
+         fill="#340d66"
+         d="m 256,149.57 h 109.71 v 30 H 256 Z"
+         data-name="Path 579"
+         id="Path_579" />
+      <path
+         fill="#340d66"
+         d="m 256,222.71 h 109.71 v 30 H 256 Z"
+         data-name="Path 580"
+         id="Path_580" />
+      <path
+         fill="#ffcf67"
+         d="M 512,201.14 V 493.71 L 256,469.93 0,493.71 V 201.14 l 204.8,146.29 h 102.4 z"
+         data-name="Path 581"
+         id="Path_581" />
+      <path
+         fill="#feb920"
+         d="M 512,201.14 V 493.71 L 256,469.93 v -122.5 h 51.2 z"
+         data-name="Path 582"
+         id="Path_582" />
+      <path
+         fill="#feb920"
+         d="M 512,493.71 H 0 L 256,310.86 Z"
+         data-name="Path 583"
+         id="Path_583" />
+      <path
+         fill="#fc9b28"
+         d="M 512,493.71 H 256 V 310.86 Z"
+         data-name="Path 584"
+         id="Path_584" />
+    </g>
+  </g>
+</svg>

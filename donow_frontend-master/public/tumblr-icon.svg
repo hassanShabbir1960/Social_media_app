@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="tumblr-icon.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg294"
+   version="1.1"
+   viewBox="0 0 22.489584 22.489584"
+   height="22.489584mm"
+   width="22.489584mm">
+  <defs
+     id="defs288" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-91.351269"
+     inkscape:cx="128.96052"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-71.71253,-172.33669)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,71.71253,172.33669)"
+       id="tumblr">
+      <circle
+         id="Ellipse_11"
+         data-name="Ellipse 11"
+         cx="42.5"
+         cy="42.5"
+         r="42.5"
+         fill="#142a4b" />
+      <path
+         id="tumblr-2"
+         data-name="tumblr"
+         d="m 35.409,49.077 -2.552,-7.439 a 12.924,12.924 0 0 1 -4.275,0.91 h -0.2 c -4.047,0 -4.839,-2.976 -4.874,-5.15 V 21.172 H 34.156 V 13.28 H 23.55 V 0 H 15.785 A 0.415,0.415 0 0 0 15.4,0.389 C 14.963,4.457 13.017,11.588 5,14.44 v 6.731 h 5.335 v 17.034 c 0,5.767 4.279,13.925 15.526,13.925 h -0.024 0.393 c 3.88,-0.069 8.217,-1.672 9.179,-3.053 z"
+         transform="translate(21.975,16.273)"
+         fill="#ffffff" />
+    </g>
+  </g>
+</svg>

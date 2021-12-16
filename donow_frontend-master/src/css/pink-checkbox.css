@@ -1,0 +1,46 @@
+/* Customize the label (the checkbox-container) */
+.checkbox-container {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  height: 25px;
+  width: 25px;
+  border-radius: 100%;
+  border: 3px solid #cd3333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  height: 15px;
+  width: 15px;
+  padding: 2.5px;
+  vertical-align: middle;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+/* On mouse-over, add a darker background color */
+.checkbox-container:hover input ~ .checkmark {
+  filter: brightness(75%);
+}
+
+/* When the checkbox is checked, add a colored background */
+.checkbox-container input:checked ~ .checkmark {
+  background-color: #cd3333;
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="clock-icon.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg71"
+   version="1.1"
+   viewBox="0 0 51.658836 51.658836"
+   height="51.658836mm"
+   width="51.658836mm">
+  <defs
+     id="defs65" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="242.4735"
+     inkscape:cx="329.24068"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-18.721736,-84.012221)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,18.721736,84.012221)"
+       data-name="clock (1)"
+       id="clock_1_">
+      <path
+         fill="#cd3333"
+         d="M 97.623,0 A 97.623,97.623 0 1 0 195.246,97.623 97.735,97.735 0 0 0 97.623,0 Z m 0,183.043 a 85.42,85.42 0 1 1 85.42,-85.42 85.516,85.516 0 0 1 -85.42,85.42 z"
+         data-name="Path 623"
+         id="Path_623" />
+      <path
+         fill="#cd3333"
+         transform="translate(-116.272,-46.509)"
+         d="m 220,83.118 h -12.2 v 63.541 l 38.4,38.4 8.628,-8.628 L 220,141.606 Z"
+         data-name="Path 624"
+         id="Path_624" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+.top-div{
+    background-color: #cd3333;
+    color: white;
+    margin: 0 !important;
+}
+.top-div h1{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    font-weight: bold;
+}
+.red-bar {
+    height: 10px;
+    width: 100px;
+    background-color: #cd3333;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.gray {
+    background-color: #f2f2f2 !important;
+    text-decoration: none !important;
+}
+
+
+/*CONTACT US*/
+
+.top-pan {
+    color: white;
+    background-color: #474342;
+}
+.top-pan div{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.contact-us-form{
+    padding-left: 10% !important;
+    padding-right: 10%;
+}
+
+.contact-us-description{
+    /*display:inline-block !important;*/
+    padding:70px !important;
+    line-height:140% !important;
+    /*line-height: 100px !important;*/
+}
+
+.font-light{
+    font-weight: lighter !important;
+}
+
+.div-border{
+    border: solid gray thin;
+}
+
+.div-link {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+
+/*.full-page{*/
+/*    height: 100vh;*/
+/*}*/
+
+@media only screen and (max-width: 786px) {
+    .gaib {
+        display: none !important;
+    }
+}
+

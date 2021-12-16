@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="grey-check.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg55"
+   version="1.1"
+   viewBox="0 0 234.86659 182.37027"
+   height="182.37027mm"
+   width="234.86659mm">
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="335.62062"
+     inkscape:cx="390.952"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.3939509,-59.367044)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="stroke-width:0.264583"
+       opacity="0.08"
+       fill="#484343"
+       d="m 92.328831,238.22374 a 11.985625,11.985625 0 0 1 -16.956353,0 L 7.6640153,170.50495 a 17.978967,17.978967 0 0 1 0,-25.43439 l 8.4780427,-8.48043 a 17.981612,17.981612 0 0 1 25.436514,0 L 83.850787,178.86446 198.07591,64.636962 a 17.981877,17.981877 0 0 1 25.43651,0 l 8.47805,8.480425 a 17.978967,17.978967 0 0 1 0,25.434396 z m 0,0"
+       data-name="correct (1)"
+       id="correct_1_" />
+  </g>
+</svg>

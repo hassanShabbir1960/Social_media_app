@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing-1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg664"
+   version="1.1"
+   viewBox="0 0 162.45416 133.63098"
+   height="133.63098mm"
+   width="162.45416mm">
+  <defs
+     id="defs658" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="160"
+     inkscape:window-height="1055"
+     inkscape:window-width="1424"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="229.67387"
+     inkscape:cx="298.42855"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata661">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-26.874112,-87.398788)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,24.757445,72.582122)"
+       id="graphic-design">
+      <g
+         transform="translate(17.903,65.903)"
+         data-name="Group 148"
+         id="Group_148">
+        <g
+           data-name="Group 146"
+           id="Group_146">
+          <path
+             fill="#57565c"
+             transform="translate(-16,0.71)"
+             d="m 610.195,336 v 29.71 a 29.717,29.717 0 0 1 -29.71,29.71 H 45.71 A 29.717,29.717 0 0 1 16,365.71 V 336 Z"
+             data-name="Path 535"
+             id="Path_535" />
+          <path
+             fill="#83d8f4"
+             transform="translate(-16,-64)"
+             d="m 610.195,93.71 v 307 H 16 v -307 A 29.717,29.717 0 0 1 45.71,64 h 534.775 a 29.717,29.717 0 0 1 29.71,29.71 z"
+             data-name="Path 536"
+             id="Path_536" />
+          <path
+             fill="#e0e0e2"
+             transform="translate(27.775,12.13)"
+             d="M 338.645,443.419 H 200 L 219.806,384 h 99.032 z"
+             data-name="Path 537"
+             id="Path_537" />
+          <path
+             fill="#57565c"
+             transform="translate(20.162,23.549)"
+             d="m 168,432 h 217.871 v 29.71 H 168 Z"
+             data-name="Path 538"
+             id="Path_538" />
+        </g>
+        <g
+           transform="translate(118.839,79.226)"
+           data-name="Group 147"
+           id="Group_147">
+          <path
+             fill="#e0e0e2"
+             transform="translate(-77.742,-128)"
+             d="M 256,385.484 V 128 h 89.129 v 257.484"
+             data-name="Path 539"
+             id="Path_539" />
+          <path
+             fill="#ff5023"
+             transform="translate(-94.871,-112.774)"
+             d="m 184,192 h 59.419 V 369.02 H 184 Z"
+             data-name="Path 540"
+             id="Path_540" />
+          <path
+             fill="#d9ccbc"
+             transform="translate(-94.871,-118.484)"
+             d="m 243.419,177.9 v 19.81 H 184 V 177.9 l 4.952,-9.9 h 49.516 z"
+             data-name="Path 541"
+             id="Path_541" />
+          <path
+             fill="#57565c"
+             transform="translate(-93.919,-128)"
+             d="M 237.516,177.516 H 188 L 212.758,128 Z"
+             data-name="Path 542"
+             id="Path_542" />
+          <path
+             fill="#ffda44"
+             transform="translate(-54.903,-97.548)"
+             d="m 352,256 h 59.419 v 99.032 H 352 Z"
+             data-name="Path 543"
+             id="Path_543" />
+          <path
+             fill="#e0e0e2"
+             transform="translate(-54.903,-112.774)"
+             d="m 411.419,251.419 v 19.806 H 352 V 251.419 L 381.71,192 Z"
+             data-name="Path 544"
+             id="Path_544" />
+          <path
+             fill="#5f4d37"
+             transform="translate(-112,-128)"
+             d="m 171.419,177.516 c 0,21.877 -13.3,39.613 -29.71,39.613 C 125.299,217.129 112,199.394 112,177.516 112,155.638 141.71,128 141.71,128 c 0,0 29.709,27.639 29.709,49.516 z"
+             data-name="Path 545"
+             id="Path_545" />
+          <path
+             fill="#e0e0e2"
+             transform="translate(-110.097,-110.871)"
+             d="M 159.613,259.419 H 120 L 129.9,200 h 19.81 z"
+             data-name="Path 546"
+             id="Path_546" />
+          <path
+             fill="#2d2d30"
+             transform="translate(-110.097,-99.451)"
+             d="M 124.539,356.936 120,248 h 39.613 l -4.539,108.936"
+             data-name="Path 547"
+             id="Path_547" />
+        </g>
+      </g>
+      <g
+         transform="translate(8,56)"
+         data-name="Group 149"
+         id="Group_149">
+        <path
+           transform="translate(-8,-56)"
+           d="M 582.388,56 H 47.613 A 39.665,39.665 0 0 0 8,95.613 v 336.71 a 39.665,39.665 0 0 0 39.613,39.613 h 204.131 l -13.208,39.613 h -32.47 a 9.9,9.9 0 0 0 -9.9,9.9 v 19.806 h -89.134 a 9.9035,9.9035 0 0 0 0,19.807 h 435.743 a 9.9035,9.9035 0 0 0 0,-19.807 H 433.839 v -19.803 a 9.9,9.9 0 0 0 -9.9,-9.9 h -32.47 L 378.261,471.939 H 582.388 A 39.665,39.665 0 0 0 622,432.323 V 95.613 A 39.665,39.665 0 0 0 582.388,56 Z M 414.033,531.356 v 9.9 H 215.968 v -9.9 z m -154.614,-19.807 13.208,-39.613 h 84.747 l 13.208,39.613 z M 602.195,432.323 A 19.833,19.833 0 0 1 582.388,452.13 H 47.613 A 19.833,19.833 0 0 1 27.807,432.324 V 412.517 H 602.195 Z M 175.934,303.581 172.22,392.71 h -11.537 l -3.714,-89.129 z m -17.6,-19.806 6.61,-39.613 h 3.021 l 6.61,39.613 z m 8.121,-59.419 c -10.733,0 -19.807,-13.6 -19.807,-29.71 0,-10.163 10.374,-24.931 19.782,-35.342 8.48,9.408 19.831,24.449 19.831,35.342 -0.003,16.105 -9.077,29.709 -19.809,29.709 z m 107.772,-19.807 1.164,2.34 v 7.564 h -39.616 v -7.564 l 1.164,-2.34 z m -27.382,-19.806 8.74,-17.467 8.74,17.467 z m 28.546,49.516 v 157.213 a 10.222,10.222 0 0 0 0.087,1.238 h -39.79 a 10.225,10.225 0 0 0 0.087,-1.238 V 234.258 Z m 89.129,-39.613 h 29.71 v 19.807 h -9.9 a 9.903,9.903 0 1 0 0,19.806 h 9.9 v 19.806 h -29.71 a 9.903,9.903 0 1 0 0,19.806 h 29.71 v 19.806 h -9.9 a 9.9035,9.9035 0 0 0 0,19.807 h 9.9 v 19.806 h -29.71 a 9.903,9.903 0 1 0 0,19.806 h 29.71 V 392.71 H 324.9 V 155.032 h 69.323 v 19.807 h -29.71 a 9.903,9.903 0 1 0 0,19.806 z m 118.836,118.838 v 77.988 a 10.221,10.221 0 0 0 0.087,1.238 h -39.787 a 10.215,10.215 0 0 0 0.087,-1.238 v -77.988 z m -39.613,-19.807 v -7.564 l 19.806,-39.613 19.807,39.613 v 7.564 z m 158.452,99.033 h -99.12 a 10.215,10.215 0 0 0 0.087,-1.238 v -107.7 a 10,10 0 0 0 -1.04,-4.432 l -29.71,-59.419 a 9.914,9.914 0 0 0 -17.727,0 l -29.71,59.419 a 10,10 0 0 0 -1.04,4.432 v 107.7 a 10.222,10.222 0 0 0 0.087,1.238 h -9.99 V 145.129 a 9.9,9.9 0 0 0 -9.9,-9.9 H 315 a 9.9,9.9 0 0 0 -9.9,9.9 V 392.71 h -9.99 a 10.24,10.24 0 0 0 0.087,-1.238 V 204.549 a 10,10 0 0 0 -1.04,-4.432 L 264.444,140.7 a 9.914,9.914 0 0 0 -17.727,0 l -29.71,59.419 a 10,10 0 0 0 -1.04,4.432 v 186.921 a 10.222,10.222 0 0 0 0.087,1.238 h -24.015 l 4.11,-98.624 c 0.012,-0.223 0,-0.446 0,-0.681 v -0.3 a 9.92,9.92 0 0 0 -0.124,-1.04 v -0.025 l -9.16,-54.975 c 11.5,-8.678 19.2,-24.449 19.2,-42.423 0,-25.451 -29.5,-53.638 -32.866,-56.77 a 9.924,9.924 0 0 0 -13.493,0 c -3.367,3.132 -32.866,31.319 -32.866,56.77 0,17.974 7.7,33.745 19.2,42.423 l -9.16,54.975 v 0.025 a 9.916,9.916 0 0 0 -0.124,1.04 v 0.3 c 0,0.235 -0.012,0.458 0,0.681 l 4.11,98.624 H 27.807 V 95.613 A 19.832,19.832 0 0 1 47.613,75.807 h 534.775 a 19.833,19.833 0 0 1 19.807,19.807 z"
+           data-name="Path 548"
+           id="Path_548" />
+        <path
+           transform="translate(-0.387,14.42)"
+           d="M 109.323,352 H 49.9 a 9.903,9.903 0 1 0 0,19.806 h 59.419 a 9.903,9.903 0 1 0 0,-19.806 z"
+           data-name="Path 549"
+           id="Path_549" />
+        <path
+           transform="translate(16.742,14.42)"
+           d="m 131.806,352 h -9.9 a 9.903,9.903 0 1 0 0,19.806 h 9.9 a 9.903,9.903 0 1 0 0,-19.806 z"
+           data-name="Path 550"
+           id="Path_550" />
+        <path
+           transform="translate(37.678,-19.838)"
+           d="m 209.9,208 a 9.9,9.9 0 0 0 -9.9,9.9 v 108.939 a 9.903,9.903 0 1 0 19.806,0 V 217.9 A 9.9,9.9 0 0 0 209.9,208 Z"
+           data-name="Path 551"
+           id="Path_551" />
+        <path
+           transform="translate(77.646,-4.612)"
+           d="m 377.9,272 a 9.9,9.9 0 0 0 -9.9,9.9 v 29.71 a 9.903,9.903 0 0 0 19.806,0 V 281.9 A 9.9,9.9 0 0 0 377.9,272 Z"
+           data-name="Path 552"
+           id="Path_552" />
+        <path
+           transform="translate(-0.387,-48.387)"
+           d="m 49.9,107.806 h 79.226 a 9.903,9.903 0 1 0 0,-19.806 H 49.9 a 9.903,9.903 0 1 0 0,19.806 z"
+           data-name="Path 553"
+           id="Path_553" />
+        <path
+           transform="translate(-0.387,-42.677)"
+           d="M 49.9,131.806 H 69.71 A 9.903,9.903 0 0 0 69.71,112 H 49.9 a 9.903,9.903 0 1 0 0,19.806 z"
+           data-name="Path 554"
+           id="Path_554" />
+        <path
+           transform="translate(90.969,1.097)"
+           d="m 433.9,315.806 h 39.613 a 9.903,9.903 0 1 0 0,-19.806 H 433.9 a 9.903,9.903 0 0 0 0,19.806 z"
+           data-name="Path 555"
+           id="Path_555" />
+        <path
+           transform="translate(96.678,-4.612)"
+           d="m 457.9,291.806 h 9.9 a 9.903,9.903 0 1 0 0,-19.806 h -9.9 a 9.903,9.903 0 1 0 0,19.806 z"
+           data-name="Path 556"
+           id="Path_556" />
+      </g>
+    </g>
+  </g>
+</svg>

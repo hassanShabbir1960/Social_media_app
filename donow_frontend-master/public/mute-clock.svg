@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="mute-clock.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg104"
+   version="1.1"
+   viewBox="0 0 135.99586 135.99615"
+   height="135.99615mm"
+   width="135.99586mm">
+  <defs
+     id="defs98" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="297.33796"
+     inkscape:cx="302.81657"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-25.713117,-69.495998)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       opacity="0.1"
+       transform="matrix(0.26458333,0,0,0.26458333,25.713183,69.495998)"
+       id="timer">
+      <g
+         data-name="Group 198"
+         id="Group_198">
+        <g
+           data-name="Group 197"
+           id="Group_197">
+          <path
+             fill="#cd3333"
+             d="M 438.724,75.271 A 257,257 0 0 0 256.995,0 a 8.291,8.291 0 0 0 -8.29,8.29 v 66.323 a 8.2905,8.2905 0 0 0 16.581,0 V 16.722 c 132.7,4.576 236.566,115.862 231.99,248.563 C 492.7,397.986 381.413,501.851 248.712,497.275 116.011,492.699 12.145,381.412 16.722,248.712 A 240.412,240.412 0 0 1 86.993,87 8.29,8.29 0 0 0 75.271,75.277 C -25.093,175.643 -25.09,338.366 75.276,438.73 175.642,539.094 338.365,539.091 438.729,438.725 539.093,338.359 539.089,175.635 438.724,75.271 Z"
+             data-name="Path 625"
+             id="Path_625" />
+        </g>
+      </g>
+      <g
+         transform="translate(108.111,108.117)"
+         data-name="Group 200"
+         id="Group_200">
+        <g
+           data-name="Group 199"
+           id="Group_199">
+          <path
+             fill="#cd3333"
+             transform="translate(-104.325,-104.331)"
+             d="m 253.209,220.052 a 32.719,32.719 0 0 0 -16.738,4.7 l -118.1,-118.1 a 8.29,8.29 0 0 0 -11.723,11.723 l 118.1,118.1 a 32.718,32.718 0 0 0 -4.7,16.738 33.161,33.161 0 1 0 33.161,-33.161 z m 0,49.742 a 16.581,16.581 0 1 1 16.581,-16.581 16.58,16.58 0 0 1 -16.581,16.581 z"
+             data-name="Path 626"
+             id="Path_626" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

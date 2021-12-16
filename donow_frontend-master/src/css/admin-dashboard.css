@@ -1,0 +1,49 @@
+.active {
+    background-color: #cd3333 !important;
+    border-color: #cd3333 !important;
+}
+
+.text-pink{
+    color: #cd3333 !important;
+}
+.fix {
+    overflow: hidden !important;
+    position: fixed !important;
+    top: 13%;
+    width: 73%;
+}
+.text-green{
+    color: forestgreen;
+}
+.text-blue {
+    color: dodgerblue;
+}
+.text-red {
+    color: red;
+}
+.paginators{
+    display: block;
+    border:solid black thin;
+}
+
+.button-pink {
+    border-color: #cd3333 !important;
+    color: #cd3333 !important;
+}
+.button-pink:hover{
+    background-color: #cd3333 !important;
+    color: white !important;
+}
+
+.pad-nav{
+    padding-top: 100px !important;
+    margin-bottom: 10%;
+}
+
+.text-overflow{
+    display: block;
+    width: 13em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

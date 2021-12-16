@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="payment-icon.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg942"
+   version="1.1"
+   viewBox="0 0 31.220833 20.813976"
+   height="20.813976mm"
+   width="31.220833mm">
+  <defs
+     id="defs936" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="729"
+     inkscape:window-width="1350"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="256.76258"
+     inkscape:cx="-20.018671"
+     inkscape:zoom="0.34445423"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-111.12994,-80.231567)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,111.12994,57.653878)"
+       id="pay">
+      <g
+         transform="translate(0,85.333)"
+         data-name="Group 122"
+         id="Group_122">
+        <g
+           data-name="Group 121"
+           id="Group_121">
+          <path
+             fill="#484343"
+             transform="translate(0,-85.333)"
+             d="M 105.707,85.333 H 12.291 A 12.309,12.309 0 0 0 0,97.625 v 54.083 A 12.309,12.309 0 0 0 12.291,164 h 93.416 A 12.309,12.309 0 0 0 118,151.708 V 97.625 A 12.308,12.308 0 0 0 105.707,85.333 Z m 7.375,66.374 a 7.384,7.384 0 0 1 -7.375,7.375 H 12.291 A 7.384,7.384 0 0 1 4.916,151.707 V 97.625 a 7.384,7.384 0 0 1 7.375,-7.375 h 93.416 a 7.384,7.384 0 0 1 7.375,7.375 v 54.083 z"
+             data-name="Path 362"
+             id="Path_362" />
+        </g>
+      </g>
+      <g
+         transform="translate(0,100.083)"
+         data-name="Group 124"
+         id="Group_124">
+        <g
+           data-name="Group 123"
+           id="Group_123">
+          <path
+             fill="#484343"
+             transform="translate(0,-149.333)"
+             d="M 115.54,149.333 H 2.458 A 2.459,2.459 0 0 0 0,151.791 v 14.75 A 2.459,2.459 0 0 0 2.458,169 H 115.541 A 2.459,2.459 0 0 0 118,166.541 v -14.75 a 2.46,2.46 0 0 0 -2.46,-2.458 z m -2.458,14.75 H 4.917 v -9.833 h 108.165 z"
+             data-name="Path 363"
+             id="Path_363" />
+        </g>
+      </g>
+      <g
+         transform="translate(14.75,134.499)"
+         data-name="Group 126"
+         id="Group_126">
+        <g
+           data-name="Group 125"
+           id="Group_125">
+          <path
+             fill="#484343"
+             transform="translate(-64,-298.667)"
+             d="m 95.958,298.667 h -29.5 a 2.4585,2.4585 0 1 0 0,4.917 h 29.5 a 2.4585,2.4585 0 1 0 0,-4.917 z"
+             data-name="Path 364"
+             id="Path_364" />
+        </g>
+      </g>
+      <g
+         transform="translate(14.75,144.332)"
+         data-name="Group 128"
+         id="Group_128">
+        <g
+           data-name="Group 127"
+           id="Group_127">
+          <path
+             fill="#484343"
+             transform="translate(-64,-341.333)"
+             d="m 95.958,341.333 h -29.5 a 2.4585,2.4585 0 0 0 0,4.917 h 29.5 a 2.4585,2.4585 0 0 0 0,-4.917 z"
+             data-name="Path 365"
+             id="Path_365" />
+        </g>
+      </g>
+      <g
+         transform="translate(83.583,129.583)"
+         data-name="Group 130"
+         id="Group_130">
+        <g
+           data-name="Group 129"
+           id="Group_129">
+          <path
+             fill="#484343"
+             transform="translate(-362.667,-277.333)"
+             d="m 374.958,277.333 h -4.917 a 7.384,7.384 0 0 0 -7.375,7.375 v 4.917 a 7.384,7.384 0 0 0 7.376,7.375 h 4.917 a 7.384,7.384 0 0 0 7.375,-7.375 v -4.917 a 7.384,7.384 0 0 0 -7.376,-7.375 z m 2.458,12.292 a 2.459,2.459 0 0 1 -2.458,2.458 h -4.917 a 2.459,2.459 0 0 1 -2.458,-2.458 v -4.917 a 2.459,2.459 0 0 1 2.458,-2.458 h 4.917 a 2.459,2.459 0 0 1 2.458,2.458 z"
+             data-name="Path 366"
+             id="Path_366" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
