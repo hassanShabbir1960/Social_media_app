@@ -37,17 +37,22 @@ Once `pip` has finished downloading the dependencies:
 Clone down this repository. You will need node and npm installed globally on your machine.
 
 Installation:
-
+```sh
 npm install
-
+```
 To Run Test Suite:
 
+```sh
 npm test
-
+```
 To Start Server:
 
+```sh
 npm start
+```
 
 To Visit App:
 
+```sh
 localhost:3000/
+```
