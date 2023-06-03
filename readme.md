@@ -1,4 +1,5 @@
 # DoNow Social Media  application
+Online learning platform dedicated to fostering creativity and lifelong learning. It offers a wide array of classes across disciplines like illustration, design, photography, video, and freelancing, among others. Designed to inspire and facilitate the creative journey of millions of users worldwide, the platform serves as a dynamic community for learning, expression, and growth. Users can discover new content, connect with a global network of creatives, share their expertise, and even monetize their skills, all while experiencing the transformative power of creativity.
 
 Backend of the application is developed in python Django.
 
